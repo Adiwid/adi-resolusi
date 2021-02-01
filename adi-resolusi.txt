@@ -1,0 +1,4 @@
+Adi Resolusi
+- Menyelesaikan seri github
+- Seri CI
+- Seri Laravel
