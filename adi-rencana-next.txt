@@ -1,5 +1,6 @@
 Rencana adi 
 - melamar kerja
+ * telkom
 - terus belajar web
   * nude js
   * SAAS
