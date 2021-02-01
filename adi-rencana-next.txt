@@ -1,6 +1,6 @@
 Rencana adi 
 - melamar kerja
- *indomart
+ * telkom
 - terus belajar web
   * nude js
 
