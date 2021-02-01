@@ -1,5 +1,6 @@
 Rencana adi 
 - melamar kerja
+ *indomart
 - terus belajar web
   * nude js
-  * SAAS
+
