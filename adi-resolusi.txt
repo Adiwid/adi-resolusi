@@ -1,5 +1,5 @@
 Adi Resolusi
 - Menyelesaikan seri github
-- Seri CI
 - Seri Laravel
 - Seri Node JS
+- Mencoba Ngobar
